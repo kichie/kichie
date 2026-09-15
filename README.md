@@ -55,7 +55,7 @@ before:    Python で OCR・CNN・自動売買ボット（2017-2019）
 
 **かわいいくまと、日常を豊かにするアプリ**
 
-2026年10月に出します。リポジトリはまだ private です。
+2026年10月に出します。
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
@@ -190,7 +190,7 @@ CNN で画像分類を解いたもの。上の実装のあと、フレームワ�
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Commits-1%2C988-F97316?style=flat-square&labelColor=1C1917" />
+<img src="https://img.shields.io/badge/Commits-3%2C605-F97316?style=flat-square&labelColor=1C1917" />
 <img src="https://img.shields.io/badge/Pull%20Requests-807-F97316?style=flat-square&labelColor=1C1917" />
 <img src="https://img.shields.io/badge/Reviews-413-F97316?style=flat-square&labelColor=1C1917" />
 <img src="https://img.shields.io/badge/Issues-410-F97316?style=flat-square&labelColor=1C1917" />
