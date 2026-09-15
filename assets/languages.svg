@@ -16,18 +16,18 @@
   <text class="title" x="20" y="28">Top Languages by Commit</text>
   <text class="sub" x="20" y="45">counted by commits, not bytes</text>
   <g>
-    <rect x="20.00" y="62" width="274.97" height="14" fill="#3178c6" />
-    <rect x="294.97" y="62" width="22.65" height="14" fill="#3572A5" />
-    <rect x="317.62" y="62" width="17.70" height="14" fill="#4F5D95" />
-    <rect x="335.31" y="62" width="14.22" height="14" fill="#f7523f" />
-    <rect x="349.54" y="62" width="11.48" height="14" fill="#e34c26" />
-    <rect x="361.02" y="62" width="10.43" height="14" fill="#41b883" />
-    <rect x="371.45" y="62" width="28.55" height="14" fill="#bdbdbd" />
+    <rect x="20.00" y="62" width="274.58" height="14" fill="#3178c6" />
+    <rect x="294.58" y="62" width="22.62" height="14" fill="#3572A5" />
+    <rect x="317.20" y="62" width="17.67" height="14" fill="#4F5D95" />
+    <rect x="334.88" y="62" width="14.20" height="14" fill="#f7523f" />
+    <rect x="349.08" y="62" width="11.47" height="14" fill="#e34c26" />
+    <rect x="360.55" y="62" width="10.42" height="14" fill="#41b883" />
+    <rect x="370.96" y="62" width="29.04" height="14" fill="#bdbdbd" />
   </g>
   <g>
     <rect x="20" y="91" width="10" height="10" rx="2" fill="#3178c6" />
     <text class="legend" x="37" y="100">TypeScript</text>
-    <text class="pct" x="198" y="100" text-anchor="end">72.4%</text>
+    <text class="pct" x="198" y="100" text-anchor="end">72.3%</text>
     <rect x="215" y="91" width="10" height="10" rx="2" fill="#3572A5" />
     <text class="legend" x="232" y="100">Python</text>
     <text class="pct" x="393" y="100" text-anchor="end">6.0%</text>
@@ -45,7 +45,7 @@
     <text class="pct" x="393" y="144" text-anchor="end">2.7%</text>
     <rect x="20" y="157" width="10" height="10" rx="2" fill="#bdbdbd" />
     <text class="legend" x="37" y="166">Other</text>
-    <text class="pct" x="198" y="166" text-anchor="end">7.5%</text>
+    <text class="pct" x="198" y="166" text-anchor="end">7.6%</text>
   </g>
-  <text class="foot" x="20" y="204">3,607 commits across 75 repos · public and private · 2026-09-15</text>
+  <text class="foot" x="20" y="204">3,612 commits across 76 repos · public and private · 2026-09-15</text>
 </svg>
