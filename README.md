@@ -183,8 +183,19 @@ CNN で画像分類を解いたもの。上の実装のあと、フレームワ�
 <div align="center">
 
 <img src="https://img.shields.io/github/followers/kichie?style=for-the-badge&logo=github&label=Followers&color=F97316&labelColor=1C1917" />
-<img src="https://img.shields.io/badge/Public%20Repos-14-F97316?style=for-the-badge&logo=github&labelColor=1C1917" />
+<img src="https://img.shields.io/badge/Public%20Repos-11-F97316?style=for-the-badge&logo=github&labelColor=1C1917" />
 <img src="https://img.shields.io/badge/On%20GitHub%20since-2016-F97316?style=for-the-badge&logo=github&labelColor=1C1917" />
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Commits-1%2C988-F97316?style=flat-square&labelColor=1C1917" />
+<img src="https://img.shields.io/badge/Pull%20Requests-807-F97316?style=flat-square&labelColor=1C1917" />
+<img src="https://img.shields.io/badge/Reviews-413-F97316?style=flat-square&labelColor=1C1917" />
+<img src="https://img.shields.io/badge/Issues-410-F97316?style=flat-square&labelColor=1C1917" />
+
+<sub>非公開リポジトリを含めた累計です（2026年9月時点）。下の Stats と言語の内訳は、公開リポジトリだけの数字です。</sub>
 
 </div>
 
