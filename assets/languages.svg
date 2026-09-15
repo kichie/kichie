@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="214" viewBox="0 0 420 214" role="img" aria-label="Top languages by commit">
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Ubuntu, Sans-Serif; }
+    .title { font-size: 17px; font-weight: 600; fill: #F97316; }
+    .sub { font-size: 11px; fill: #6e7781; }
+    .legend { font-size: 12px; fill: #57606a; }
+    .pct { font-size: 12px; fill: #6e7781; }
+    .foot { font-size: 10px; fill: #8c959f; }
+    @media (prefers-color-scheme: dark) {
+      .sub, .pct { fill: #8b949e; }
+      .legend { fill: #c9d1d9; }
+      .foot { fill: #6e7681; }
+    }
+  </style>
+  <rect width="100%" height="100%" fill="none" />
+  <text class="title" x="20" y="28">Top Languages by Commit</text>
+  <text class="sub" x="20" y="45">counted by commits, not bytes</text>
+  <g>
+    <rect x="20.00" y="62" width="274.97" height="14" fill="#3178c6" />
+    <rect x="294.97" y="62" width="22.65" height="14" fill="#3572A5" />
+    <rect x="317.62" y="62" width="17.70" height="14" fill="#4F5D95" />
+    <rect x="335.31" y="62" width="14.22" height="14" fill="#f7523f" />
+    <rect x="349.54" y="62" width="11.48" height="14" fill="#e34c26" />
+    <rect x="361.02" y="62" width="10.43" height="14" fill="#41b883" />
+    <rect x="371.45" y="62" width="28.55" height="14" fill="#bdbdbd" />
+  </g>
+  <g>
+    <rect x="20" y="91" width="10" height="10" rx="2" fill="#3178c6" />
+    <text class="legend" x="37" y="100">TypeScript</text>
+    <text class="pct" x="198" y="100" text-anchor="end">72.4%</text>
+    <rect x="215" y="91" width="10" height="10" rx="2" fill="#3572A5" />
+    <text class="legend" x="232" y="100">Python</text>
+    <text class="pct" x="393" y="100" text-anchor="end">6.0%</text>
+    <rect x="20" y="113" width="10" height="10" rx="2" fill="#4F5D95" />
+    <text class="legend" x="37" y="122">PHP</text>
+    <text class="pct" x="198" y="122" text-anchor="end">4.7%</text>
+    <rect x="215" y="113" width="10" height="10" rx="2" fill="#f7523f" />
+    <text class="legend" x="232" y="122">Blade</text>
+    <text class="pct" x="393" y="122" text-anchor="end">3.7%</text>
+    <rect x="20" y="135" width="10" height="10" rx="2" fill="#e34c26" />
+    <text class="legend" x="37" y="144">HTML</text>
+    <text class="pct" x="198" y="144" text-anchor="end">3.0%</text>
+    <rect x="215" y="135" width="10" height="10" rx="2" fill="#41b883" />
+    <text class="legend" x="232" y="144">Vue</text>
+    <text class="pct" x="393" y="144" text-anchor="end">2.7%</text>
+    <rect x="20" y="157" width="10" height="10" rx="2" fill="#bdbdbd" />
+    <text class="legend" x="37" y="166">Other</text>
+    <text class="pct" x="198" y="166" text-anchor="end">7.5%</text>
+  </g>
+  <text class="foot" x="20" y="204">3,607 commits across 75 repos · public and private · 2026-09-15</text>
+</svg>
