@@ -195,8 +195,6 @@ CNN で画像分類を解いたもの。上の実装のあと、フレームワ�
 <img src="https://img.shields.io/badge/Reviews-413-F97316?style=flat-square&labelColor=1C1917" />
 <img src="https://img.shields.io/badge/Issues-410-F97316?style=flat-square&labelColor=1C1917" />
 
-<sub>非公開リポジトリを含めた累計です（2026年9月時点）。下の Stats は公開リポジトリだけの数字です。</sub>
-
 </div>
 
 <div align="center">
@@ -204,8 +202,6 @@ CNN で画像分類を解いたもの。上の実装のあと、フレームワ�
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kichie&theme=transparent" width="98%" />
 
 <img src="./assets/languages.svg" width="420" />
-
-<sub>言語の内訳は非公開リポジトリも含みます。1日1回、GitHub Actions が数え直します。</sub>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kichie&theme=transparent" height="200" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kichie&theme=transparent&utcOffset=9" height="200" />
