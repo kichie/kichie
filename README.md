@@ -13,7 +13,7 @@
 SaaS プロダクトの開発を、企画からリリース運用まで担当しています。
 Nuxt 3 と AWS Amplify Gen2（AppSync / Lambda / DynamoDB / OpenSearch）の構成です。
 自社ではジム検索サービス「トレーミー」を運営しています。
-かわいいくまと、日常を豊かにするアプリも作っています。2026年10月に出します。
+「くまとおかえり」というアプリも作っています。かわいいくまと、日常を豊かにするアプリです。2026年10月に出します。
 もとは Python で OCR や機械学習を書いていました。自動化から入って、いまはプロダクトを作っています。
 
 ```yaml
@@ -21,7 +21,7 @@ location:  アイソル株式会社
 now:
   - SaaS プロダクトの開発（企画 〜 リリース運用）
   - トレーミーの開発と運営 — ジム検索と、運動の習慣化（toreme.com）
-  - くまのアプリを開発中 — かわいいくまと、日常を豊かにする（2026年10月リリース予定）
+  - くまとおかえりを開発中 — かわいいくまと、日常を豊かにする（2026年10月リリース予定）
 stack:     TypeScript / Nuxt 3 / Next.js / AWS Amplify Gen2 / Flutter
 before:    Python で OCR・CNN・自動売買ボット（2017-2019）
 ```
@@ -51,7 +51,7 @@ before:    Python で OCR・CNN・自動売買ボット（2017-2019）
 </td>
 <td width="50%" valign="top" align="center">
 
-### 🐻 Coming soon
+### くまとおかえり
 
 **かわいいくまと、日常を豊かにするアプリ**
 
@@ -59,6 +59,7 @@ before:    Python で OCR・CNN・自動売買ボット（2017-2019）
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Release-2026.10-F97316?style=flat-square&labelColor=1C1917" />
 
@@ -72,7 +73,7 @@ before:    Python で OCR・CNN・自動売買ボット（2017-2019）
 
 - **SaaS プロダクト** — Nuxt 3 × AWS Amplify Gen2 での設計と運用、リリースの仕組みづくり
 - **トレーミー** — Next.js × Supabase。検索だけでなく、運動が続く導線を作る
-- **くまのアプリ** — Flutter でモバイルアプリを開発中。2026年10月リリース予定
+- **くまとおかえり** — Flutter × Supabase でモバイルアプリを開発中。2026年10月リリース予定
 - **OpenSearch** — 日本語での曖昧検索、インデックス設計と reindex 運用
 - **Testing** — Vitest でのユニットテスト、Cypress での E2E、MSW でのモック
 
@@ -81,7 +82,7 @@ before:    Python で OCR・CNN・自動売買ボット（2017-2019）
 ## Timeline
 
 ```text
-2026.10    Flutter               かわいいくまと、日常を豊かにするアプリ（リリース予定）
+2026.10    Flutter               「くまとおかえり」— かわいいくまと、日常を豊かにするアプリ（リリース予定）
 2024-      TypeScript / AWS      Nuxt 3 × Amplify Gen2 で SaaS プロダクトを開発
 2022-2023  PHP / CSS             Web サイトの制作
 2019       OCR                   広告画像から商品名と値段を取り出す
@@ -189,13 +190,13 @@ CNN で画像分類を解いたもの。上の実装のあと、フレームワ�
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kichie&theme=slateorange" width="98%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kichie&theme=transparent" width="98%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kichie&theme=slateorange" height="200" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kichie&theme=slateorange" height="200" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kichie&theme=transparent" height="200" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kichie&theme=transparent" height="200" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kichie&theme=slateorange" height="200" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kichie&theme=slateorange&utcOffset=9" height="200" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kichie&theme=transparent" height="200" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kichie&theme=transparent&utcOffset=9" height="200" />
 
 </div>
 
