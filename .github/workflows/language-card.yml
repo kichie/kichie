@@ -2,8 +2,8 @@ name: language card
 
 on:
   schedule:
-    # 毎週月曜 JST 6:00（日曜 UTC 21:00）
-    - cron: '0 21 * * 0'
+    # 毎週金曜 JST 15:00（金曜 UTC 6:00）
+    - cron: '0 6 * * 5'
   workflow_dispatch:
 
 permissions:
