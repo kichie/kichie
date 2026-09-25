@@ -16,36 +16,36 @@
   <text class="title" x="20" y="28">Top Languages by Commit</text>
   <text class="sub" x="20" y="45">counted by commits, not bytes</text>
   <g>
-    <rect x="20.00" y="62" width="275.43" height="14" fill="#3178c6" />
-    <rect x="295.43" y="62" width="22.37" height="14" fill="#3572A5" />
-    <rect x="317.80" y="62" width="17.48" height="14" fill="#4F5D95" />
-    <rect x="335.28" y="62" width="14.05" height="14" fill="#f7523f" />
-    <rect x="349.33" y="62" width="11.34" height="14" fill="#e34c26" />
-    <rect x="360.67" y="62" width="10.30" height="14" fill="#41b883" />
-    <rect x="370.97" y="62" width="29.03" height="14" fill="#bdbdbd" />
+    <rect x="20.00" y="62" width="272.04" height="14" fill="#3178c6" />
+    <rect x="292.04" y="62" width="21.90" height="14" fill="#3572A5" />
+    <rect x="313.94" y="62" width="17.11" height="14" fill="#4F5D95" />
+    <rect x="331.05" y="62" width="13.75" height="14" fill="#f7523f" />
+    <rect x="344.80" y="62" width="11.10" height="14" fill="#e34c26" />
+    <rect x="355.90" y="62" width="10.08" height="14" fill="#41b883" />
+    <rect x="365.98" y="62" width="34.02" height="14" fill="#bdbdbd" />
   </g>
   <g>
     <rect x="20" y="91" width="10" height="10" rx="2" fill="#3178c6" />
     <text class="legend" x="37" y="100">TypeScript</text>
-    <text class="pct" x="198" y="100" text-anchor="end">72.5%</text>
+    <text class="pct" x="198" y="100" text-anchor="end">71.6%</text>
     <rect x="215" y="91" width="10" height="10" rx="2" fill="#3572A5" />
     <text class="legend" x="232" y="100">Python</text>
-    <text class="pct" x="393" y="100" text-anchor="end">5.9%</text>
+    <text class="pct" x="393" y="100" text-anchor="end">5.8%</text>
     <rect x="20" y="113" width="10" height="10" rx="2" fill="#4F5D95" />
     <text class="legend" x="37" y="122">PHP</text>
-    <text class="pct" x="198" y="122" text-anchor="end">4.6%</text>
+    <text class="pct" x="198" y="122" text-anchor="end">4.5%</text>
     <rect x="215" y="113" width="10" height="10" rx="2" fill="#f7523f" />
     <text class="legend" x="232" y="122">Blade</text>
-    <text class="pct" x="393" y="122" text-anchor="end">3.7%</text>
+    <text class="pct" x="393" y="122" text-anchor="end">3.6%</text>
     <rect x="20" y="135" width="10" height="10" rx="2" fill="#e34c26" />
     <text class="legend" x="37" y="144">HTML</text>
-    <text class="pct" x="198" y="144" text-anchor="end">3.0%</text>
+    <text class="pct" x="198" y="144" text-anchor="end">2.9%</text>
     <rect x="215" y="135" width="10" height="10" rx="2" fill="#41b883" />
     <text class="legend" x="232" y="144">Vue</text>
     <text class="pct" x="393" y="144" text-anchor="end">2.7%</text>
     <rect x="20" y="157" width="10" height="10" rx="2" fill="#bdbdbd" />
     <text class="legend" x="37" y="166">Other</text>
-    <text class="pct" x="198" y="166" text-anchor="end">7.6%</text>
+    <text class="pct" x="198" y="166" text-anchor="end">9.0%</text>
   </g>
-  <text class="foot" x="20" y="204">3,652 commits across 76 repos · public and private · 2026-09-18</text>
+  <text class="foot" x="20" y="204">3,731 commits across 76 repos · public and private · 2026-09-25</text>
 </svg>
